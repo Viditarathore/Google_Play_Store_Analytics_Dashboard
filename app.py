@@ -16,7 +16,7 @@ plots = [
 ]
 
 # Streamlit App
-st.title("Google Play Store Review Analytics")
+st.title("Google Play Store Review Insights")
 st.header("Plots Visualization")
 
 # Loop through the plots and display each with its description
